@@ -1,1 +1,1 @@
-# latte-extensions
+# Latte Extension
