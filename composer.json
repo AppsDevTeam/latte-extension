@@ -1,0 +1,19 @@
+{
+	"name": "adt/latte-extension",
+	"type": "library",
+	"description": "Common latte macros and filters.",
+	"license": ["MIT"],
+	"authors": [
+		{
+			"name": "Apps Dev Team",
+			"homepage": "https://www.appsdevteam.com"
+		}
+	],
+	"require": {
+		"php": "^8.1",
+		"latte/latte": "^3.0"
+	},
+	"autoload": {
+		"psr-4": { "ADT\\LatteExtension\\": "src/" }
+	}
+}
