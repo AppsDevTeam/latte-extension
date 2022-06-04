@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"php": "^8.1",
+		"php": ">= 8.1",
 		"latte/latte": "^3.0"
 	},
 	"autoload": {
